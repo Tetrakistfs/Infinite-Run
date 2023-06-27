@@ -1,0 +1,4 @@
+#Tue Jun 27 13:40:12 IST 2023
+base.0=C\:\\Users\\Asus\\Unity\\Infinite Run\\Build\\Infinite Run V.1.0.apk\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
